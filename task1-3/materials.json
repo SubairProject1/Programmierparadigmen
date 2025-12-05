@@ -1,0 +1,107 @@
+[
+  {
+    "quality": 8.5,
+    "ecologicalCoefficient": 3.5,
+    "cost": 200000
+  },
+  {
+    "quality": 5.2,
+    "ecologicalCoefficient": 8.8,
+    "cost": 250000
+  },
+  {
+    "quality": 9.3,
+    "ecologicalCoefficient": 2.1,
+    "cost": 300000
+  },
+  {
+    "quality": 7.8,
+    "ecologicalCoefficient": 4.3,
+    "cost": 450000
+  },
+  {
+    "quality": 6.1,
+    "ecologicalCoefficient": 7.2,
+    "cost": 320000
+  },
+  {
+    "quality": 8.8,
+    "ecologicalCoefficient": 3.0,
+    "cost": 500000
+  },
+  {
+    "quality": 4.0,
+    "ecologicalCoefficient": 9.0,
+    "cost": 380000
+  },
+  {
+    "quality": 9.5,
+    "ecologicalCoefficient": 1.8,
+    "cost": 600000
+  },
+  {
+    "quality": 3.5,
+    "ecologicalCoefficient": 9.5,
+    "cost": 550000
+  },
+  {
+    "quality": 9.0,
+    "ecologicalCoefficient": 3.2,
+    "cost": 800000
+  },
+  {
+    "quality": 5.7,
+    "ecologicalCoefficient": 6.7,
+    "cost": 750000
+  },
+  {
+    "quality": 9.2,
+    "ecologicalCoefficient": 4.0,
+    "cost": 900000
+  },
+  {
+    "quality": 4.8,
+    "ecologicalCoefficient": 8.5,
+    "cost": 950000
+  },
+  {
+    "quality": 9.8,
+    "ecologicalCoefficient": 2.5,
+    "cost": 1000000
+  },
+  {
+    "quality": 3.0,
+    "ecologicalCoefficient": 10.0,
+    "cost": 1050000
+  },
+  {
+    "quality": 10.0,
+    "ecologicalCoefficient": 2.0,
+    "cost": 1200000
+  },
+  {
+    "quality": 5.9,
+    "ecologicalCoefficient": 5.9,
+    "cost": 1100000
+  },
+  {
+    "quality": 8.7,
+    "ecologicalCoefficient": 4.1,
+    "cost": 1300000
+  },
+  {
+    "quality": 4.2,
+    "ecologicalCoefficient": 9.2,
+    "cost": 1400000
+  },
+  {
+    "quality": 9.7,
+    "ecologicalCoefficient": 2.8,
+    "cost": 1500000
+  },
+  {
+    "quality": 3.6,
+    "ecologicalCoefficient": 7.3,
+    "cost": 500000
+  }
+]
