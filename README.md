@@ -5,6 +5,8 @@ Most exercises required us to simulate different scenarios, compare building typ
 
 We worked on all nine tasks as a team of three, applying the concepts we had just learned in the weekly lectures.
 
+Programming Language used: Java.
+
 ### Tasks 1–3
 
 Focus: Introduction to different programming styles
